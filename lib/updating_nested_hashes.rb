@@ -72,3 +72,4 @@ def add_characters
    epic_tragedy
 end
 
+update_status
